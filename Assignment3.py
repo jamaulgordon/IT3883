@@ -1,4 +1,4 @@
-# Program Name: Assignment2.py
+# Program Name: Assignment3.py
 # Course: IT3883/W02
 # Student Name: Jamaul Gordon
 # Assignment Number: Lab2
